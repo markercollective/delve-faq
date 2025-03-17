@@ -1,0 +1,9 @@
+# About Delve
+
+Delve, created by Marker Collective, is the ultimate media tracking and analysis tool that transforms how brands understand their world. Known for supporting tech giants like OpenAI, Coinbase, Google, and Amazon, Delve makes you look good by making it easy to deliver even more than your stakeholders bargained for—lucky them. It’s an intelligent insight engine designed to be the single source of truth for everything being said about a brand, its competitors, and its industry. In a world of fragmented data, Delve automates the grunt work, offering a seamless, magical experience that evolves alongside Marker Collective’s mission to deliver innovative tools for communications professionals.
+
+## Why Delve Exists
+Delve exists because communications deserve the same precision and strategic intelligence as any other core business function. It empowers communications professionals—whether in-house or at agencies—to act with confidence, demonstrate measurable value, and elevate their role from executors to strategic leaders. By harnessing AI and advanced data analysis, Delve helps teams see further, think smarter, and act faster, transforming how brands protect reputations, craft narratives, and drive results that matter.
+
+## Marker Collective: The Force Behind Delve
+Marker Collective is a joint venture of leading PR agencies—Archetype, Nectar Communications, and Outcast—architected to be a force multiplier for people and clients. As a product developer, business incubator, and creative accelerator, Marker leverages its combined expertise and investment in AI to introduce disruptive technologies like Delve, supercharging workflows and pushing the PR industry forward. Marker’s vision is to create unobstructed pathways between technology and talent, resulting in faster routes to success, more perfect work, and a better agency experience for everyone. Learn more at [www.markercollective.com](https://www.markercollective.com).
